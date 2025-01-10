@@ -1,8 +1,19 @@
-# Configurando Variáveis de Ambiente para o Projeto
+
+## Tecnologias Utilizadas
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
+
+- **Next.js**: Framework React para desenvolvimento web.
+- **TypeScript**: Superset do JavaScript que adiciona tipagem estática.
+- **Tailwind CSS**: Framework CSS para estilização rápida e responsiva.
+- **shadcn**: Componentes de interface reutilizáveis e estilizados.
+- **Framer Motion**: Biblioteca para animações de interfaces fluidas e dinâmicas.
+
+## Configurando Variáveis de Ambiente para o Projeto
 
 Este guia irá ajudá-lo a configurar as variáveis de ambiente necessárias para executar este projeto. Siga as instruções abaixo com atenção.
 
-## 1. Configurando DISCORD_CLIENT_ID e DISCORD_CLIENT_SECRET
+### 1. Configurando DISCORD_CLIENT_ID e DISCORD_CLIENT_SECRET
 
 Para obter essas credenciais, siga os passos abaixo:
 
@@ -54,8 +65,9 @@ Se estiver implantando em produção, ajuste a variável para refletir o domíni
 
 Após configurar todas as variáveis, sua aplicação estará pronta para ser executada!
 
+## Iniciando o projeto
 
-- instalar as dependências usando um gerenciador de pacotes, o usado no projeto foi o NPM.
+- Instalar as dependências usando um gerenciador de pacotes, o usado no projeto foi o NPM.
 
 ```
 npm install

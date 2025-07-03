@@ -94,6 +94,3 @@ npm run start
 ## Licença
 
 Este projeto é licenciado sob a licença MIT.
-
-
-Co-authored-by: Matheus Developer <matheusantoniocsantos@gmail.com>

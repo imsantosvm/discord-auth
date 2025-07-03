@@ -9,7 +9,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 - **shadcn**: Componentes de interface reutilizáveis e estilizados.
 - **Framer Motion**: Biblioteca para animações de interfaces fluidas e dinâmicas.
 
-## Configurando Variáveis de Ambiente para o Projeto
+## Configurando Variáveis de Ambiente para o Projeto.
 
 Este guia irá ajudá-lo a configurar as variáveis de ambiente necessárias para executar este projeto. Siga as instruções abaixo com atenção.
 

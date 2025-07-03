@@ -13,7 +13,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 
 Este guia irá ajudá-lo a configurar as variáveis de ambiente necessárias para executar este projeto. Siga as instruções abaixo com atenção.
 
-### 1. Configurando DISCORD_CLIENT_ID e DISCORD_CLIENT_SECRET
+### 1. Configurando DISCORD_CLIENT_ID e DISCORD_CLIENT_SECRET.
 
 Para obter essas credenciais, siga os passos abaixo:
 
